@@ -19,10 +19,10 @@ This project implements a complete local RAG pipeline running entirely on a sing
 
 ## Project Structure
 
+```text
 local-rag-assistant/
 ├── app.py              # Main Streamlit application and RAG pipeline
 └── requirements.txt    # Project Python dependencies
-
 ---
 
 ## Prerequisites & Installation
